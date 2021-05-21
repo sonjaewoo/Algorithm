@@ -21,8 +21,9 @@
 * [UnionFind](https://github.com/sonjaewoo/Algorithm/blob/master/Graph/UnionFind.cpp)
 
 ## BFS & DFS
-* [미로탐색](https://github.com/sonjaewoo/Algorithm/blob/master/BFS%26DFS/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8(S).cpp)
-* [단지번호]
+### BOJ
+* [미로탐색]
+* [단지번호](https://github.com/sonjaewoo/Algorithm/blob/master/BFS%26DFS/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8(S).cpp)
 * [촌수계산]
 * [숨바꼭질]
 * [스타트링크]
