@@ -29,6 +29,7 @@
 * [스타트링크](https://github.com/sonjaewoo/Algorithm/blob/master/BFS%26DFS/%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC(G).cpp) / https://www.acmicpc.net/problem/5014
 * [안전영역](https://github.com/sonjaewoo/Algorithm/blob/master/BFS%26DFS/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD(S).cpp) / https://www.acmicpc.net/problem/2468
 * [빙하](https://github.com/sonjaewoo/Algorithm/blob/master/BFS%26DFS/%EB%B9%99%ED%95%98(G).cpp) / https://www.acmicpc.net/problem/2573
+* [알고스팟](https://github.com/sonjaewoo/Algorithm/blob/master/BFS%26DFS/%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F(G).cpp) / https://www.acmicpc.net/problem/1261
 
 ## Backtracking
 * [N과M](https://github.com/sonjaewoo/Algorithm/blob/master/Backtracking/N%26M(1).cpp) / https://www.acmicpc.net/problem/15649
